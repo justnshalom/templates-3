@@ -1,4 +1,4 @@
-[TEMPLATES]
+[TEMPLATES](https://github.com/aberger/templates)
 ======================================
 
 template collection
