@@ -40,11 +40,11 @@ Authors
 
 + http://twitter.com/aberger_
 + http://github.com/aberger
-+ berger.alex@me.com
++ alex@aberger.me
 
 
 
 Copyright
 ---------
 
-Copyright 2012 aberger.me
+Copyright 2013 aberger.me
