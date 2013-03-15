@@ -2,6 +2,13 @@
 .DS_Store
 profile
 *.tm_build_errors
+.AppleDouble
+.LSOverride
+Icon
+# Thumbnails
+._*
+.Spotlight-V100
+.Trashes
 
 
 # Sparkle distribution Private Key (Don't check me in!)
@@ -30,6 +37,7 @@ VersionX-revision.h
 build/
 build/*
 *.[oa]
+
 
 # Other source repository archive directories (protects when importing)
 .hg
